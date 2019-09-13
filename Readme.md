@@ -15,6 +15,3 @@ conda install pytorch torchvision cpuonly -c pytorch
 conda deactivate
 ```
 
-
-
-
